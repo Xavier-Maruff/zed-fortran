@@ -1,0 +1,15 @@
+id = "fortran"
+name = "Fortran"
+description = "Fortran support for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Xavier Maruff <xavier.maruff@outlook.com>"]
+repository = "https://github.com/Xavier-Maruff/zed-fortran"
+
+[language_servers.fortls]
+name = "fortls"
+language = "Fortran"
+
+[grammars.fortran]
+repository = "https://github.com/Xavier-Maruff/tree-sitter-fortran-wasm"
+commit = "1105385cbcfc7cef1a7bb2d22d61c41678bd1409"
