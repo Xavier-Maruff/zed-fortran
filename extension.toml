@@ -1,9 +1,9 @@
 id = "fortran"
 name = "Fortran"
 description = "Fortran support for Zed"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
-authors = ["Xavier Maruff <xavier.maruff@outlook.com>"]
+authors = ["Xavier Maruff <xavier.maruff@outlook.com>", "John Makowski <brickcodes@proton.me>"]
 repository = "https://github.com/Xavier-Maruff/zed-fortran"
 
 [language_servers.fortls]
