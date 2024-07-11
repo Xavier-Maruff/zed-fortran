@@ -18,7 +18,7 @@ impl zed::Extension for FortranExtension {
 
         Ok(zed::Command {
             command: path,
-            args: vec![],
+            args: vec!["--lowercase_intrinsics".to_string()],
             env: Default::default(),
         })
     }
