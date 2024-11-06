@@ -1,7 +1,7 @@
 name = "Fortran"
 code_fence_block_name = "fortran"
 grammar = "fortran"
-path_suffixes = ["f90", "f95", "f03", "f08", "f"]
+path_suffixes = ["f90", "f95", "f03", "f08", "f", "F"]
 line_comments = ["! "]
 autoclose_before = ";:.,=}])>"
 brackets = [
