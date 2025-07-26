@@ -1,7 +1,7 @@
 id = "fortran"
 name = "Fortran"
 description = "Fortran support for Zed"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = [
     "Xavier Maruff <xavier.maruff@outlook.com>",
